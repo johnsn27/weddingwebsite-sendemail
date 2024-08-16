@@ -1,0 +1,11 @@
+{
+  "name": "my-lambda-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
